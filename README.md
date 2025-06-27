@@ -45,4 +45,4 @@ Analyze healthcare data across appointments, patients, doctors, and treatments t
 - `treatment_valied_view`: Sets cost to 0 for Cancelled/No-show
 
 ## 📄 Summary
-See [`Healthcare_Project_Summary.pdf`](./Summary/Healthcare_Project_Summary.pdf) for a one-page breakdown of findings, visuals, and impact.
+See [`Healthcare_Project_Summary.pdf`]([./Summary/Healthcare_Project_Summary.pdf](https://github.com/jone-moni/Health_care_analysis/blob/main/health_care_summary.pdf)) for a one-page breakdown of findings, visuals, and impact.
